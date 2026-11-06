@@ -1721,7 +1721,7 @@ export default function App() {
                 </a>
 
                 <a
-                  href="mailto:siranjeevi.dev@gmail.com"
+                  href="mailto:click2sira@gmail.com"
                   className="p-4 rounded-2xl bg-slate-950 border border-slate-800 hover:border-indigo-500/50 flex items-center justify-between group transition"
                 >
                   <div className="flex items-center gap-3.5">
@@ -1730,7 +1730,7 @@ export default function App() {
                     </div>
                     <div>
                       <div className="text-sm font-bold text-white group-hover:text-indigo-400 transition">
-                        siranjeevi.dev@gmail.com
+                        click2sira@gmail.com
                       </div>
                       <div className="text-xs text-slate-400">Send RFP, wireframes or scope docs</div>
                     </div>
